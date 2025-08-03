@@ -12,7 +12,6 @@
 0x112233445566778899  复制粘贴进arduino改成  112233445566778899
   
 然后用arduino开发环境编译上传到esp32就可以用了  
-App需要新一点的版本，例如Android下需要4.7.5以上的，不然不会蓝牙打卡
 
 原项目地址(https://github.com/zanjie1999/dingBle)
 
